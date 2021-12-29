@@ -1,0 +1,9 @@
+﻿  소스.cpp
+C:\Users\MSI\source\repos\스네이크 만들기\스네이크 만들기\소스.cpp(54,24): warning C4309: '=': 상수 값이 잘립니다.
+C:\Users\MSI\source\repos\스네이크 만들기\스네이크 만들기\소스.cpp(71,23): warning C4309: '=': 상수 값이 잘립니다.
+C:\Users\MSI\source\repos\스네이크 만들기\스네이크 만들기\소스.cpp(346,17): warning C4309: '=': 상수 값이 잘립니다.
+C:\Users\MSI\source\repos\스네이크 만들기\스네이크 만들기\소스.cpp(352,17): warning C4309: '=': 상수 값이 잘립니다.
+C:\Users\MSI\source\repos\스네이크 만들기\스네이크 만들기\소스.cpp(355,18): warning C4309: '=': 상수 값이 잘립니다.
+C:\Users\MSI\source\repos\스네이크 만들기\스네이크 만들기\소스.cpp(359,18): warning C4309: '=': 상수 값이 잘립니다.
+C:\Users\MSI\source\repos\스네이크 만들기\스네이크 만들기\소스.cpp(374,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  스네이크 만들기.vcxproj -> C:\Users\MSI\source\repos\스네이크 만들기\Debug\스네이크 만들기.exe
